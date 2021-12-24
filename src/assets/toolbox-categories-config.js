@@ -50,7 +50,8 @@ export default {
             "contents": [
                 {
                     "kind": "block",
-                    "type": "controls_repeat_ext"
+                    "type": "controls_repeat_ext",
+                    
                 },
                 {
                     "kind": "block",
